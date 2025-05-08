@@ -7,7 +7,7 @@ Frontend do desafio **Realmate** desenvolvido em Flutter para visualizar convers
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/realmate_challenge_front.git
+   git clone https://github.com/Victor-Drt/realmate-challenge-dev.git
    cd realmate_challenge_front
    ```
 
